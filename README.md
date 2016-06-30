@@ -1,3 +1,3 @@
 # Weather-Scrapper
 Local weather checker. 
-Project to practice HTML, CSS, Bootstrap, Jquery, Javascript, PHP, and AJAX skills.
+ HTML, CSS,PHP, and AJAX .
